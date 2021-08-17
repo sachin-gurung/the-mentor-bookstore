@@ -15,8 +15,9 @@ const HeaderComponent = (props) => {
   return (
     <div>
       <Jumbotron className="jumbotron">
-        <h1 className="display-3">THE MENTOR BOOKSTORE</h1>
-        <p className="lead">
+        
+        <h1 className="display-1 text-center">THE MENTOR BOOKSTORE</h1>
+        <p className="display-4 text-center">
           All about books!!
         </p>
         <hr className="my-2" />
