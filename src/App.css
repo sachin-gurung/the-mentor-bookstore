@@ -38,11 +38,19 @@
 }
 
 .jumbotron {
-  background-color: #33FF3F
+  background-color:#b3ffec;
+  /* background: url(../images/book3.jpg); */
+  /* background: url(../../images/book3.jpg); */
+  /* background-image: url("https://unsplash.com/photos/YLSwjSy7stw"); */
+  /* background-image: url; */
+  /* color: white; */
+  /* background: url("../../../public/images/book3.jpg") no-repeat; */
+  
+  
 }
 
 .Navbar {
-  background-color: #33FF3F;
+  background-color: #33ff3f;
 }
 
 /* .img {
