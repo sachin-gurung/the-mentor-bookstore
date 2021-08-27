@@ -3,8 +3,7 @@ import React from "react";
 
 const FooterComponent = (props) => {
   return (
-    <div className="main-footer">
-      <hr />
+    <div className="main-footer" class="bg-success pt-5">
       <div className="container">
         <div className="row">
             <div className="col">

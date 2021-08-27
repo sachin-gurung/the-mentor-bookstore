@@ -1,13 +1,3 @@
-// const Header = () => {
-//     return (
-//         <div>
-//             <h1>The Mentor</h1>
-//         </div>
-//     )
-// }
-
-// export default Header
-
 import React from "react";
 import { Jumbotron, Button } from "reactstrap";
 
